@@ -1,6 +1,6 @@
 # instagram accgen
 
-- telegram: t.me/fffhhdheu737h
+telegram: t.me/fffhhdheu737h
 
 - put your capsolver & herosms api keys to capsolver.py and herosms.py
 - put proxies to proxies.txt (make sure they aren't high quality since instagram skips captcha prompt for hq proxies which leads to account not being created)
